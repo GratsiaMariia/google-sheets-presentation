@@ -17,7 +17,7 @@ data analyst to study the business reports, create calculations, and propose a s
 
 ## Files
 
-- **Google Sheets (Data Analysis)**: [View the Google Sheets document here]((https://docs.google.com/spreadsheets/d/1kkKKiiqo35G2zDK6SKZzgKAVCEi2vfUbAA-_SGjotFw/edit?gid=1553803663#gid=1553803663))
+- **Google Sheets (Data Analysis)**: [View the Google Sheets document here]((https://docs.google.com/spreadsheets/d/1kkKKiiqo35G2zDK6SKZzgKAVCEi2vfUbAA-_SGjotFw/edit?gid=1553803663#gid=1553803663)
 - **Google Slides (Presentation)**: [View the Google Slides presentation here](https://docs.google.com/presentation/d/1tBalfdP29X8ppGa2We2pXdaCQycFRzkEAH_yTI5d5BU/edit#slide=id.g2ba7ddfbbda_2_384)
 
 > **Note**: Access to these files may be restricted for privacy reasons. Please contact the project owner if you need access.
